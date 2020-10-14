@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_gray">#B3FFFFFF</color>
+    <color name="background_blue">#242d34</color>
+    <color name="dark_gray">#80000000</color>
+    <color name="medium_blue">#298080</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="title_dark">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="button_normal">#50808080</color>
+    <color name="button_press">#5086BFFF</color>
+    <color name="gs_home_stroke">#b200ae39</color>
+    <color name="gs_home_fill">#0d1eff00</color>
+    <color name="auth_fill">#28FFFF00</color>
+    <color name="limit_fill">#78FF0000</color>
+    <color name="black_overlay">#000000</color>
+</resources>
